@@ -1,0 +1,15 @@
+git 
+ls
+mkdir project 
+cd project
+git init
+ls -a
+ls .git
+touch git.txt
+rm -rf git.txt 
+git restore --staged git.txt
+git status 
+git commit -m "new change "
+git log for history
+git reset paste id 
+

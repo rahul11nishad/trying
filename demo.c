@@ -7,6 +7,11 @@ void pat(int n)
         printf("\n");
     }
 }
+void greeting()
+{
+    string name="Rahul nishad";
+    printf("Hello, %s",name);
+}
 int main()
 {
     printf("hello git ....");
